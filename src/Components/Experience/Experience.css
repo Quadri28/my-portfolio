@@ -1,0 +1,56 @@
+
+.experience__frontend{
+background: var(--color-bg-variant);
+padding: 2.4rem 5rem;
+border-radius: 2rem;
+border: solid 1px transparent;
+}
+
+
+.experience__frontend:hover{
+background: transparent;
+border-color: var(--color-primary-variant);
+cursor: default;
+}
+
+.experience__content{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 4rem;
+}
+.experience__details{
+    display: flex;
+    gap: 1rem;
+}
+
+.experience__icons{
+    color: var(--color-primary);
+    margin-top: 6px;
+}
+
+/************** MEDIA QUERIES (MEDIUM DEVICES)**********/
+@media screen and (max-width: 1024px) {
+    .experience__frontend{
+        padding: 2.5rem;
+    }
+    .experience__content{
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2rem;
+    }
+
+}
+
+/************ MEDIA QUERIES (PHONE) ********/
+
+@media screen and (max-width: 600px) {
+    .experience__frontend{
+        padding: 2.5rem .5rem 0;
+    }
+    .experience__content{
+        gap: 1rem;
+    }
+    .experience__details{
+        gap: .3rem;
+    }
+    
+}
