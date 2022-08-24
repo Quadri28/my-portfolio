@@ -23,7 +23,7 @@ const Footer = () => {
 
     </div>
       <div className='footer_copyright'>
-        <small> &copy; Dev Quadri. All rights reserved. </small>
+        <small> &copy; Dev Quadri. All rights reserved. { new Date().getFullYear()} </small>
       </div>
     </footer>
   )

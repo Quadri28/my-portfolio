@@ -53,3 +53,12 @@ footer a{
     margin-bottom: 4rem;
     color: var(--color-bg);
 }
+
+
+@media screen and (max-width:600px) {
+
+    .footer__socials {
+    justify-content: center;
+    }
+    
+}

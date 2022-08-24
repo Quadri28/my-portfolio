@@ -70,4 +70,10 @@ input, textarea{
     .container.contact__container{
         width: var(--container-width-sm);
     }
+    .contact__option{
+    margin: 10px 0;
+    }
+    .form-inputs{
+        margin: 10px 0;
+    }
 }
