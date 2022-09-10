@@ -53,12 +53,3 @@ footer a{
     margin-bottom: 4rem;
     color: var(--color-bg);
 }
-
-
-@media screen and (max-width:600px) {
-
- .permalinks{
-    gap: 3rem;
- }  
-    
-}
