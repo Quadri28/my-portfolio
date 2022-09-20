@@ -22,7 +22,7 @@ const data=[
     id:2,
     image: IMG2,
     title:'E-commerce',
-    github: 'https://githubhttps://github.com/Quadri28/my-shop',
+    github: 'https://github.com/Quadri28/my-shop',
     demo: 'shopryte.netlify.app'
   },
   {
@@ -44,7 +44,7 @@ const data=[
     image: IMG5,
     title:'A tour site',
     github: 'https://github.com/Quadri28/react-tour-website',
-    demo: 'tourtheplain.netlify.app'
+    demo: 'https://tourtheplain.netlify.app'
   },
   {
     id:6,
