@@ -53,6 +53,7 @@ input, textarea{
     border: solid 2px var(--color-primary-variant);
     resize: none;
     color: var(--color-white);
+    margin: 10px 0;
 }
 
 /****************MEDIA QUERIES (MEDIUM DEVICES)************/
@@ -61,6 +62,9 @@ input, textarea{
     .container.contact__container{
         grid-template-columns: 1fr;
         gap: 2rem;
+    }
+    .contact__option{
+        margin: 10px 0;
     }
 }
 
