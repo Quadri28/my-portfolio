@@ -16,21 +16,21 @@ const data=[
     image: IMG1,
     title:'My Porfolio',
     github: 'https://github.com/Quadri28/my-portfolio',
-    demo: 'devquadriportfolio.netlify.app'
+    demo: 'https://devquadriportfolio.netlify.app'
   },
   {
     id:2,
     image: IMG2,
     title:'E-commerce',
     github: 'https://github.com/Quadri28/my-shop',
-    demo: 'shopryte.netlify.app'
+    demo: 'https://shopryte.netlify.app'
   },
   {
     id:3,
     image: IMG3,
     title:'Recipe App',
     github: 'https://github.com/Quadri28/Recipe-App',
-    demo: 'recipedictionary.netlify.app'
+    demo: 'https://recipedictionary.netlify.app'
   },
   {
     id:4,
