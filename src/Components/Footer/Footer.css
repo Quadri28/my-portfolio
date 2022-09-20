@@ -57,8 +57,11 @@ footer a{
 
 @media screen and (max-width:600px) {
 
- .permalinks{
-    gap: 1rem;
+ .permalinks li a{
+    gap: .4rem;
  }  
+ .footer__socials a{
+    gap:'.5rem'
+ }
     
 }
