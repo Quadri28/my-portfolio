@@ -38,7 +38,7 @@ const About = () => {
             <small> 20+ completed projects</small>
             </article>
           </div>
-          <p>lore ipsum dolliot suit manel tetc phoone miners state posci shels pasat prodis duit humme git jumo shwio diool</p>
+          <p>Curiosity lead me to coding and I have totally fallen in love writing and learning code every day.</p>
           <a href='#contact' className='btn btn-primary'> Let's Talk</a>
         </div>
       </div>

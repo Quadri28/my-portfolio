@@ -6,7 +6,6 @@ import 'aos/dist/aos.css';
 AOS.init();
 
 
-
 const Experience = () => {
   return (
     <section id='experience'>
@@ -45,7 +44,14 @@ const Experience = () => {
             <article className='experience__details'>
                 <BsPatchCheckFill className='experience__icons'/>
                 <div>
-                <h4>React Native</h4>
+                <h4>PHP/Laravel</h4>
+                <small className='text-light'>Experienced</small>
+                </div>
+            </article>
+            <article className='experience__details'>
+                <BsPatchCheckFill className='experience__icons'/>
+                <div>
+                <h4>MySQL</h4>
                 <small className='text-light'>Intermediate</small>
                 </div>
             </article>
@@ -67,14 +73,14 @@ const Experience = () => {
                 <BsPatchCheckFill className='experience__icons'/>
                 <div>
                 <h4>Bootstrap</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Experienced</small>
                 </div>
             </article>
             <article className='experience__details'>
                 <BsPatchCheckFill className='experience__icons'/>
                 <div>
                 <h4>Material UI</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Experienced</small>
                 </div>
             </article>
         </div>

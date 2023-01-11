@@ -2,7 +2,7 @@ import React from 'react'
 import './Testimonial.css';
 import { Splide, SplideSlide } from '@splidejs/react-splide';
 import '@splidejs/react-splide/css';
-import AVTR1 from  '../../assets/avatar1.jpg'
+import AVTR1 from  '../../assets/avatar1.png'
 import AVTR2 from '../../assets/avatar2.jpg'
 import AVTR3 from  '../../assets/avatar3.jpg'
 import AVTR4 from  '../../assets/avatar4.jpg'
@@ -13,9 +13,9 @@ AOS.init();
 
 const data =[
   {
-    avatar: AVTR1,
-    name: 'Tina Snow',
-    review: 'lorema  inspo sjoenm ksd s klkmlld kkori chai dammy suci james jaun min das torret  cup kiss diso maine dashe ot romesli yummy unmaiou thise hime honey thrive these mopies dhells'
+    avatar:AVTR1,
+    name: 'Justin Ukaegbu',
+    review: 'Nice work, you have done exactly the replica of the provided design and that too in no time'
     
   },
   {

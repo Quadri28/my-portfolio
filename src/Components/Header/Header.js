@@ -1,7 +1,7 @@
 
 import React from 'react'
 import CTA from '../CTA'
-import Me from '../../assets/me.png'
+import Me from '../../assets/Me.png'
 import HeaderSocials from '../HeaderSocials'
 import './Header.css'
 import AOS from 'aos'
@@ -21,7 +21,7 @@ const Header = () => {
         <CTA/>
         <HeaderSocials/>
         <div className='me' >
-            <img src={Me} alt='me' data-aos='fade-up' datat-aos-easing='linear' data-aos-duration='2000'/>
+            <img src={Me} alt='me' />
         </div>
         <a href='#contact' className='scroll__down'>Scroll Down</a>
       </div>

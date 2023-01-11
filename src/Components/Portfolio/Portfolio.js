@@ -14,44 +14,51 @@ const data=[
   {
     id:1,
     image: IMG1,
-    title:'My Porfolio',
-    github: 'https://github.com/Quadri28/my-portfolio',
-    demo: 'https://devquadriportfolio.netlify.app'
+    title:'An America Based Association site (React js)',
+    github: 'https://github.com/Quadri28/unanj',
+    demo: 'https://unanj.netlify.app'
   },
   {
     id:2,
     image: IMG2,
-    title:'E-commerce',
+    title:'E-commerce (React js)',
     github: 'https://github.com/Quadri28/my-shop',
     demo: 'https://shopryte.netlify.app'
   },
   {
     id:3,
     image: IMG3,
-    title:'Recipe App',
+    title:'Recipe App (React js)',
     github: 'https://github.com/Quadri28/Recipe-App',
     demo: 'https://recipedictionary.netlify.app'
   },
   {
     id:4,
     image: IMG4,
-    title:"A client's portfolio",
+    title:"A client's portfolio (React js)",
     github: 'https://github.com/sheriffjimoh/Justin_portfolio',
-    demo: 'https://justin-resume.netlify.app'
+    demo: 'https://re-0001.netlify.app/'
   },
   {
     id:5,
     image: IMG5,
-    title:'A tour site',
+    title:'A tour site (React js)',
     github: 'https://github.com/Quadri28/react-tour-website',
     demo: 'https://tourtheplain.netlify.app'
   },
   {
     id:6,
     image: IMG6,
-    title:'Maid and Job site',
-    github: 'https://github.com/Quadri28/maidinaddis.com',
-    demo: 'https://maidinaddisababa.netlify.app/'
+    title:'A lounge Site (PHP/Laravel)',
+    github: 'https://github.com/Quadri28/lounge',
+    demo: 'https://hypebeachlounge.com.ng/'
+  },
+  {
+    id:7,
+    image: IMG3,
+    title:'A fitness app for a fitness center with full E-commerce features (PHP/Laravel)',
+    github: 'https://github.com/Quadri28/iamfit',
+    demo: 'https://iamfit.ng'
   },
 ]
 
