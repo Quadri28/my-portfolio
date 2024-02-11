@@ -11,7 +11,9 @@ margin: 0;
   border: none;
   outline: 0;
 }
-
+body{
+  overflow-x: hidden;
+}
 :root{
     --color-bg : #1f1f38;
     --color-bg-variant: #2c2c6c;
