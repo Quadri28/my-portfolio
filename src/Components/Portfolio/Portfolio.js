@@ -4,8 +4,8 @@ import IMG1 from  '../../assets/portfolio1.jpg'
 import IMG2 from  '../../assets/portfolio2.jpg'
 import IMG3 from  '../../assets/portfolio3.jpg'
 import IMG4 from  '../../assets/portfolio4.jpg'
-import IMG5 from  '../../assets/portfolio5.png'
-import IMG6 from  '../../assets/portfolio6.jpg'
+import IMG5 from  '../../assets/portfolio5.jpg'
+import IMG7 from  '../../assets/portfolio7.jpg'
 import AOS from 'aos'
 import 'aos/dist/aos.css';
 AOS.init();
@@ -14,9 +14,9 @@ const data=[
   {
     id:1,
     image: IMG1,
-    title:'An America Based Association site (React js)',
+    title:'Unified Cooperative (React js)',
     github: 'https://github.com/Quadri28/unanj',
-    demo: 'https://unanj.netlify.app'
+    demo: 'https://solutions.cooplatform.com.ng/'
   },
   {
     id:2,
@@ -46,17 +46,11 @@ const data=[
     github: 'https://github.com/Quadri28/react-tour-website',
     demo: 'https://tourtheplain.netlify.app'
   },
-  {
-    id:6,
-    image: IMG6,
-    title:'A lounge Site (PHP/Laravel)',
-    github: 'https://github.com/Quadri28/lounge',
-    demo: 'https://hypebeachlounge.com.ng/'
-  },
+
   {
     id:7,
-    image: IMG3,
-    title:'A fitness app for a fitness center with full E-commerce features (PHP/Laravel)',
+    image: IMG7,
+    title:'A fitness app with full E-commerce features (Laravel)',
     github: 'https://github.com/Quadri28/iamfit',
     demo: 'https://iamfit.ng'
   },
@@ -84,11 +78,7 @@ const Portfolio = () => {
         </article>
             )
           })
-
         }
-        
-        
-        
       </div>
     </section>
   )
